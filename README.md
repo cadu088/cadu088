@@ -5,8 +5,8 @@
  <div style="display: inline_block">
   <a href="https://github.com/cadu088">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=cadu088&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu088&layout=compact&langs_count=8"/>
-  <img align="left" height="180em" width="180em" alt="GatinDoido.com" src="https://media0.giphy.com/media/905GG7MjDw61q/giphy.gif?cid=ecf05e47kpfchxvq6ty61j1rqo3ph8rija94yio62goz94gd&rid=giphy.gif&ct=g">
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu088&layout=compact&langs_count=8"/>
+  <img align="center" height="280em" width="280em" alt="GatinDoido.com" src="https://media0.giphy.com/media/905GG7MjDw61q/giphy.gif?cid=ecf05e47kpfchxvq6ty61j1rqo3ph8rija94yio62goz94gd&rid=giphy.gif&ct=g">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
