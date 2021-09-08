@@ -1,13 +1,11 @@
 
 # Opaa! Bem-vindo ao meu perfil no git!
   
-<div style="display: inline_block"><br>
-   
-</div>
+
  <div style="display: inline_block">
   <a href="https://github.com/cadu088">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=cadu088&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu088&layout=demo&langs_count=8"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu088&layout=compact&langs_count=8"/>
   <img align="left" height="180em" width="180em" alt="GatinDoido.com" src="https://media0.giphy.com/media/905GG7MjDw61q/giphy.gif?cid=ecf05e47kpfchxvq6ty61j1rqo3ph8rija94yio62goz94gd&rid=giphy.gif&ct=g">
 </div>
 <div style="display: inline_block"><br>
