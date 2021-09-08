@@ -7,7 +7,6 @@
   <a href="https://github.com/cadu088">
   <img height="180em"  align="left" src="https://github-readme-stats.vercel.app/api?username=cadu088&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu088&layout=compact&langs_count=8"/>
-
 </div>
   <br><br>  <br><br>
   <br><br>
@@ -16,8 +15,10 @@
   <br><br>
   <br><br>
   <br><br>
-    <br><br>
-
+  <br><br>
+  
+## 🚧 Cuidado! | Caution! | Precaución! 🚧
+  Esse ser aqui está aprendendo 🏃‍♂️, então está tudo em construção, por motivos de falta de tempo algumas coisas estão inacabadas aqui 🤦‍♂️... mas continue seu tur :)
 
 <div style="display:block " align="center">
   <img align="center" alt="Cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
