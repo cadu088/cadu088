@@ -18,7 +18,7 @@
   <br><br>
   
 ## 🚧 Cuidado! | Caution! | Precaución! 🚧
-  Esse ser aqui está aprendendo 🏃‍♂️, então está tudo em construção, por motivos de falta de tempo algumas coisas estão inacabadas aqui 🤦‍♂️... mas continue seu tur :)
+  Esse ser aqui está aprendendo 🏃‍♂️, então está tudo em construção, e por motivos de falta de tempo algumas coisas estão inacabadas aqui 🤦‍♂️... mas continue seu tur :)
 
 <div style="display:block " align="center">
   <img align="center" alt="Cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
