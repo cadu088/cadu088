@@ -12,9 +12,10 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu088&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 
-  <br><br>
-  <br><br>
-  
+<p align="center">
+  <img height="280em" width="280em" alt="GatinDoido.com" src="https://media0.giphy.com/media/905GG7MjDw61q/giphy.gif?cid=ecf05e47kpfchxvq6ty61j1rqo3ph8rija94yio62goz94gd&rid=giphy.gif&ct=g">
+ </p>
+ 
 ## 🚧 Cuidado! | Caution! | Precaución! 🚧
   Esse ser aqui está aprendendo 🏃‍♂️, então está tudo em construção, e por motivos de falta de tempo algumas coisas estão inacabadas aqui 🤦‍♂️... mas continue seu tur :)
 
