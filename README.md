@@ -1,13 +1,30 @@
 
 # Opaa! Bem-vindo ao meu perfil!
-  <img align="right" height="280em" width="280em" alt="GatinDoido.com" src="https://media0.giphy.com/media/905GG7MjDw61q/giphy.gif?cid=ecf05e47kpfchxvq6ty61j1rqo3ph8rija94yio62goz94gd&rid=giphy.gif&ct=g">
-  
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=cadu088&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
 
- <div style="display: inline_block">
-  <a href="https://github.com/cadu088">
-  <img height="180em"  align="left" src="https://github-readme-stats.vercel.app/api?username=cadu088&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu088&layout=compact&langs_count=8"/>
-</div>
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=cadu088&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu088&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+</p>
+
+<h4 align="center">Lines of Code per language in the last year only</h4>
+<p align="center">
+	<img width="450em" src="https://api.githubtrends.io/user/svg/cadu088/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
+</p>
+
+<h4 align="center">Views of all repositories (updated daily)</h4>
+<p align="center">
+	<a href="https://github.com/cadu088/my_github_profile_views_counter">
+		<img width="135em" src="https://github.com/cadu088/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
+	</a>
+</p>
+
+
   <br><br>  <br><br>
   <br><br>
   <br><br>
