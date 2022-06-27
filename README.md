@@ -12,25 +12,13 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu088&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 
-<h4 align="center">Lines of Code per language in the last year only</h4>
+# Contributions
+<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
 <p align="center">
-	<img width="450em" src="https://api.githubtrends.io/user/svg/cadu088/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
-</p>
-
-<h4 align="center">Views of all repositories (updated daily)</h4>
-<p align="center">
-	<a href="https://github.com/cadu088/my_github_profile_views_counter">
-		<img width="135em" src="https://github.com/cadu088/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
-
-
-  <br><br>  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
   <br><br>
   <br><br>
   
