@@ -29,6 +29,7 @@
   <img align="center" alt="Cadu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cadu-Typ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
+
   
  <br>
 <div style="display:block " align="center"> 
@@ -37,3 +38,9 @@
   <a href="https://www.linkedin.com/in/carlosrodrigues088/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<br/>
+<p align="center">
+  <a href="https://github.com/cadu088">
+    <img src="https://komarev.com/ghpvc/?username=cadu088&color=blue&style=flat)" />
+  </a>
+</p>
