@@ -7,10 +7,16 @@
 <p align="center">
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=cadu088&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
+<br>
+<div style="display:block " align="center">
+<a href="https://carlosrodrigues.in" target="_blank"><img src="https://github.com/cadu088/cadu088/assets/72260079/951f3834-126d-451b-a71a-6872228dfde1" target="_blank" width="600"></a>
+</div>
 
-<p align="center">
-  <img height="280em" width="280em" alt="GatinDoido.com" src="https://media0.giphy.com/media/905GG7MjDw61q/giphy.gif?cid=ecf05e47kpfchxvq6ty61j1rqo3ph8rija94yio62goz94gd&rid=giphy.gif&ct=g">
- </p>
+<div style="display:block " align="center">
+<a href="https://carlosrodrigues.in" target="_blank"><img src="https://img.shields.io/badge/Port%C3%ADfolio-blue" target="_blank" width="100"></a> 
+</div>
+
+
  
 ## 🚧 Cuidado! | Caution! | Precaución! 🚧
   Esse ser aqui está aprendendo 🏃‍♂️, então está tudo em construção, e por motivos de falta de tempo algumas coisas estão inacabadas aqui 🤦‍♂️... mas continue seu tur :)
@@ -29,6 +35,5 @@
   <a href="https://instagram.com/carlosrs088" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:carloseduardors088@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-r-18b56718b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://carlosrodrigues.in" target="_blank"><img src="https://img.shields.io/badge/Port%C3%ADfolio-blue" target="_blank"></a> 
   
 </div>
