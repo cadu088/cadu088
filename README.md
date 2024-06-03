@@ -23,8 +23,8 @@ No mais, fique à vontade 🤟
 <br/>
 
 <p align="center" style="display:flex">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=cadu088&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=cadu088&include_all_commits=true&hide_border=true&theme=dark"/>
+	<img width="400em" src="https://github-readme-stats.vercel.app/api?username=cadu088&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+	<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=cadu088&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 
 <div style="display:block " align="center">
