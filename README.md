@@ -1,5 +1,5 @@
 
-# Opaa! Bem-vindo(a) ao meu perfil! 👋
+# Bem-vindo(a) ao meu perfil! 👋
  Aqui você vai achar testes, ideias, trabalhos e projetos. Então não se atente a alguns repositórios aleatórios (sou péssimo com nomes, você verá 🤖). 
  
 👇 Abaixo está meu portifólio, você pode acessa-lo diretamente em [carlosrodrigues.in](https://carlosrodrigues.in) ou clicando no botão “Portifólio”. 
